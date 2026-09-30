@@ -78,7 +78,4 @@ tests\test_game_logic.py ...........                                     [100%]
 
 ## 🚀 Stretch Features
 
-- [x] **Agent Workflow (SF8):** Used an autonomous AI coding agent to plan multi-step refactoring, migrate logic into `logic_utils.py`, and link app imports.
-- [x] **Test Generation (SF7):** Generated automated pytest cases targeting edge cases including decimal input handling, lexicographical string/int coercion, and score decay.
-- [x] **Linting & Style (SF9):** Standardized type hints, docstrings, and clean error handling across `app.py` and `logic_utils.py`.
-- [x] **Model Comparison (SF11):** Compared reasoning models on handling Streamlit session state and backwards-compatible tuple return signatures.
+- [ ] [If you choose to complete Challenge 4, describe the Enhanced UI changes here — a screenshot is optional]

@@ -29,4 +29,3 @@ I would tell a friend that Streamlit reruns your entire Python script from top t
 ## 5. Looking ahead: your developer habits
 
 A habit I definitely want to reuse is separating core business logic into its own utility module with unit tests before wiring it up to a UI. Next time I work with AI, I plan to be much more explicit upfront about expected function inputs and return types so we do not waste time reconciling mismatched formats. This project showed me that AI is great at speeding up brainstorming and writing tests, but it can easily introduce subtle bugs or suggest modifying test suites to take shortcuts. It really reinforced that you cannot blindly trust AI output without reviewing the logic and verifying it yourself.
-
